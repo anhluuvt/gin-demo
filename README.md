@@ -9,7 +9,7 @@
 
 ### Ready
 
-Create a **blog database** and import [SQL](docs/sql/blog.sql)
+Create a **blog database** and import [SQL](docs/sql/blog-v2.sql)
 
 ### Conf
 
@@ -58,7 +58,6 @@ Project information and existing API
 [GIN-debug] DELETE /api/v1/articles/:id      --> github.com/anhluuvt/gin-demo/routers/api/v1.DeleteArticle (4 handlers)
 
 Listening port is 8000
-Actual pid is 4393
 ```
 Swagger doc
 
@@ -76,3 +75,6 @@ Swagger doc
 - App configurable
 - Cron
 - Redis
+
+## REDIS cache
+![image](https://github.com/anhluuvt/gin-demo/blob/main/runtime/imgs/mysql_redis.jpg?raw=true)
