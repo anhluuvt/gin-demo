@@ -58,7 +58,6 @@ Project information and existing API
 [GIN-debug] DELETE /api/v1/articles/:id      --> github.com/anhluuvt/gin-demo/routers/api/v1.DeleteArticle (4 handlers)
 
 Listening port is 8000
-Actual pid is 4393
 ```
 Swagger doc
 
