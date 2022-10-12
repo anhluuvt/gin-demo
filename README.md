@@ -61,7 +61,7 @@ Listening port is 8000
 ```
 Swagger doc
 
-![image](https://i.imgur.com/bVRLTP4.jpg)
+![image](https://github.com/anhluuvt/gin-demo/blob/main/runtime/imgs/swagger.jpg?raw=true)
 
 ## Features
 
